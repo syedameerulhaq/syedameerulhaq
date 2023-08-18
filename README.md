@@ -1,7 +1,7 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://syedameerulhq.github.io/personalCV/)
 
 <h1 align="center">Hi 👋, I'm Syed Ameerulhaq</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedameerulhaq&label=Profile%20views&color=0e75b6&style=flat" alt="syedameerulhaq" /> </p>
 
