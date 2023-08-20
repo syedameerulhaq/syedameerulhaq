@@ -1,5 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://syedameerulhq.github.io/personalCV/)
-
+<img src="https://media.tenor.com/gPaa5MzKJCkAAAAC/jot.gif"  width="100%">
 <h1 align="center">Hi 👋, I'm Syed Ameerulhaq</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
