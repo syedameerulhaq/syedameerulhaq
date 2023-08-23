@@ -28,4 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedameerulhaq&show_icons=true&locale=en" alt="syedameerulhaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedameerulhaq&" alt="syedameerulhaq" /></p>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<syedameerulhaq>/<syedameerulhaq>/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<syedameerulhaq>/<syedameerulhaq>/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<syedameerulhaq>/<syedameerulhaq>/output-3d-contrib/day.svg" />
+	</picture>
+</p>
 
