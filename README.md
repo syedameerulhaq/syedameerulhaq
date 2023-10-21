@@ -30,7 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedameerulhaq&show_icons=true&locale=en" alt="syedameerulhaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedameerulhaq&" alt="syedameerulhaq" /></p>
+<p><img align="center" width="80%" src="./profile-3d-contrib/profile-night-green.svg" alt="syedameerulhaq" /></p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
+<!--![](./profile-3d-contrib/profile-night-green.svg)
+ -->
 
